@@ -76,6 +76,8 @@ function buildCharts(sample) {
 
     let barLayout = {
       title: "Top 10 Bacteria Cultures Found",
+      xaxis: { title: "Number Of Bacteria" }
+
     };
 
     // Render the Bar Chart
