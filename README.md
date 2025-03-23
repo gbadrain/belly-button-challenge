@@ -13,6 +13,7 @@ Using this dashboard, users can:
 ## Live Demo
 
 The interactive dashboard is deployed via GitHub Pages and can be accessed at: [Belly Button Biodiversity Dashboard](https://github.com/gbadrain/belly-button-challenge)
+![alt text](Dashboard.png)
 
 ## Features
 
