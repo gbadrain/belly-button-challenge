@@ -55,6 +55,7 @@ The data is sourced from the Belly Button Biodiversity dataset, which can be acc
 
 ```
 belly-button-challenge/
+|-- Dashboard.png               # Full screen of Dashboard
 ├── index.html                  # Main HTML structure
 ├── static/                     # Static assets
 │   ├── js/
